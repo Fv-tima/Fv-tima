@@ -6,10 +6,10 @@
 - 📰 I document my tech journey
 </p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1DKPHT7ZNIJuhJvC-pVsYM1814AW7sqOtGCl0sIbxMaI/edit ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=@Fvtima alt=@Fvtima /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=@Fv-tima alt=@Fv-tima /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=@Fvtima&show_icons=true&include_all_commits=true)](https://github.com/@Fvtima/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@Fvtima&layout=compact)](https://github.com/@Fvtima/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=@Fv-tima&show_icons=true&include_all_commits=true)](https://github.com/@Fv-tima/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@Fv-tima&layout=compact)](https://github.com/@Fv-tima/github-readme-stats)
 
 
 
