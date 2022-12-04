@@ -1,6 +1,6 @@
 ## Hey 👋, This is Fatima Oluwalogbon
 [![Gmail Badge](https://img.shields.io/badge/-zahraoluwalogbon@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zahraoluwalogbon@gmail.com)](mailto:zahraoluwalogbon@gmail.com) 
-[![Twitter Badge](https://img.shields.io/badge/-zvhra2-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/zvhra2/)](https://www.twitter.com/zvhra2/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://zvhrasportfolio.netlify.app/)](https://zvhrasportfolio.netlify.app/) <p align='left'>- 👋 Hi, I’m Fatima Oluwalogbon
+[![Twitter Badge](https://img.shields.io/badge/-zvhra2-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/zvhra2/)](https://www.twitter.com/zvhra2/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://fvtima-portfolio.netlify.app/)](https://zvhrasportfolio.netlify.app/) <p align='left'>- 👋 Hi, I’m Fatima Oluwalogbon
 - 👀 I’m interested in web development, currently specialized in frontend development
 - 🌱 I’m currently learning React js
 - 📰 I document my tech journey
